@@ -2,3 +2,4 @@ I added some text in this file.
 I added another line also.
 Logo alignment is centered.
 Bug is fixex
+Added New line
